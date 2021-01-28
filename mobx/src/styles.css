@@ -1,0 +1,23 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+}
+
+.App {
+  font-family: sans-serif;
+  height: 100vh;
+  display: grid;
+  grid-template-columns: 120px 1fr;
+  grid-template-rows: 30px 1fr;
+  grid-template-areas:
+    "sidebar actions-bar"
+    "sidebar emails";
+}
+ul,
+li {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+}

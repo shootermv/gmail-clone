@@ -1,0 +1,10 @@
+.error {
+  position: absolute;
+  top: 20px;
+  color: #fff;
+  padding: 10px;
+  border: 1px solid #000;
+  background: red;
+  left: 50%;
+  transform: translateX(-50%);
+}

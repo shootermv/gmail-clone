@@ -1,2 +1,2 @@
 # gmail-clone
-Created with CodeSandbox
+Gmail application implementations with popular content managers

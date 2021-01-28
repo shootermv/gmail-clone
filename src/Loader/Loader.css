@@ -1,9 +1,0 @@
-.loader {
-  position: absolute;
-  top: 20px;
-  padding: 10px;
-  border: 1px solid #000;
-  background: yellow;
-  left: 50%;
-  transform: translateX(-50%);
-}

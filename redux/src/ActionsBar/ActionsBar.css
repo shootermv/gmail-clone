@@ -1,0 +1,7 @@
+.actions-bar {
+  grid-area: actions-bar;
+  border-bottom: 1px solid gray;
+}
+.check-all-wrap {
+  padding: 4px;
+}

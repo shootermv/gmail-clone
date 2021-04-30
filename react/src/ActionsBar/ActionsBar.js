@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import "./ActionsBar.css";
 const ActionsBar = ({ selectedEmails, emails, setSelectedEmails }) => {
   return (
